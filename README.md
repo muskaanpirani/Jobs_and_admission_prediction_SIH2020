@@ -1,5 +1,5 @@
-# Jobs_and_admission_prediction_SIH2020
-# HACKATHON 2020 (Job and admission prediction)
+# Jobs and admission prediction SIH2020
+# HACKATHON 2020
 Extract screenshots folder to see the images of working project.
 Extract all the files.
 
